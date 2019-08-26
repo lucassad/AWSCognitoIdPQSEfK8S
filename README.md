@@ -1,4 +1,4 @@
-# Use AWS Cognito Use Pool as an IdP for Qlik Sense Enterprise for Kubernetes
+# Use AWS Cognito User Pool as an IdP for Qlik Sense Enterprise for Kubernetes
 
 ## Create a Manage Use Pool 
 1) Go to <https://console.aws.amazon.com/cognito> and select "Manage User Pools"
